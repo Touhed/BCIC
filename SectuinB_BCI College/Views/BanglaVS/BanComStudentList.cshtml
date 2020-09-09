@@ -1,0 +1,44 @@
+﻿@model List<GroupB01_BCIC.Models.BanComStudent>
+@{
+    ViewData["Title"] = "Student List";
+}
+
+<h1 style="text-align: center;">Bangla Version Coomerce Students List</h1>
+
+<div class="container" style="width: 20%;">
+    <div class="form-group">
+        <div class="input-group-addon">
+            <form asp-controller="BanglaVS" asp-action="BanComStudentSearch">
+                <input placeholder="Search By Id" class="form-control" name="id" />
+                <a asp-controller="BanglaVS" asp-action="BanComStudentSearch" asp-route-id="id"><input type="submit" value="Search" /></a>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <table border="1" class="table table-bordered" cellpadding="1" cellspacing="1">
+        <thead>
+            <tr>
+                <td style="text-align:center; font-weight: bold;">Student Id</td>
+                <td style="text-align:center; font-weight: bold;">Student Name</td>
+                <td style="text-align:center; font-weight: bold;">Department</td>
+                <td style="text-align:center; font-weight: bold;">Present Address</td>
+                <td style="text-align:center; font-weight: bold;">Permanent Address</td>
+                <td style="text-align:center; font-weight: bold;">Contact</td>
+                <td style="text-align:center; font-weight: bold;">Email</td>
+            </tr>
+        </thead>
+        @foreach (var f in Model)
+        {
+            <tr>
+                <td style="text-align:center">@f.StudentId</td>
+                <td style="text-align:center">@f.StudentName</td>
+                <td style="text-align:center">@f.Department</td>
+                <td style="text-align:center">@f.PresentAddress</td>
+                <td style="text-align:center">@f.PermanentAddress</td>
+                <td style="text-align:center">@f.Contact</td>
+                <td style="text-align:center">@f.Email</td>
+            </tr>
+        }
+    </table>
+</div>

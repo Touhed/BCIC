@@ -1,0 +1,38 @@
+﻿@model List<GroupB01_BCIC.Models.Admin>;
+@{
+    ViewData["Title"] = "Admin";
+}
+
+<h1 style="text-align:center">Admin Information</h1>
+
+<div class="container" style="width: 20%;">
+    <div class="form-group">
+        <div class="input-group-addon">
+            <form asp-controller="Admin" asp-action="Search">
+                <input placeholder="Search By Id" class="form-control" name="id" />
+                <a asp-controller="Admin" asp-action="Search" asp-route-id="id"><input type="submit" value="Search" /></a>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <table border="1" class="table table-bordered" cellpadding="1" cellspacing="1">
+        <thead>
+            <tr>
+                <td style="text-align:center; font-weight: bold;">Admin Id</td>
+                <td style="text-align:center; font-weight: bold;">Name</td>
+                <td style="text-align:center; font-weight: bold;">Email</td>
+                <td style="text-align:center; font-weight: bold;">Contact</td>
+            </tr>
+        </thead>
+        @foreach (var f in Model)
+        {
+            <tr>
+                <td style="text-align:center">@f.AdminId</td>
+                <td style="text-align:center">@f.Name</td>
+                <td style="text-align:center">@f.Email</td>
+                <td style="text-align:center">@f.Contact</td>
+            </tr>
+        }
+    </table>
+</div>

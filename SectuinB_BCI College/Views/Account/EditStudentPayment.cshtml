@@ -1,0 +1,101 @@
+﻿@model GroupB01_BCIC.Models.StudentPayment
+
+@{
+    @*Layout = "_LayoutForAccount";*@
+    ViewData["Title"] = " Update Payment";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>GroupB01_BCCI</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body style="background-color: darkgray;align-content: center; font-family: 'Times New Roman', Times, serif;">
+    <div class="container" style="width: 40%;">
+        <form asp-controller="Account" asp-action="EditStudentPayment" method="post">
+            <div asp-validation-summary="All"></div>
+            <h2 style="text-align: center;">Update Student Payment</h2>
+            <hr />
+
+            <div class="form-group">
+                <label asp-for="PaymentId"></label>
+                <input asp-for="PaymentId" class="form-control" readonly />
+                <span asp-validation-for="PaymentId"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudentId"></label>
+                <input asp-for="StudentId" class="form-control" />
+                <span asp-validation-for="StudentId"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Month"></label>
+                <select asp-for="Month">
+                    <option value="">--Select Month--</option>
+                    <option value="January">January</option>
+                    <option value="February">February</option>
+                    <option value="March">March</option>
+                    <option value="April">April</option>
+                    <option value="May">May</option>
+                    <option value="June">June</option>
+                    <option value="July">July</option>
+                    <option value="August">August</option>
+                    <option value="September">September</option>
+                    <option value="October">October</option>
+                    <option value="November">November</option>
+                    <option value="December">December</option>
+                </select>
+                <span asp-validation-for=" Month"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Year"></label>
+                <input asp-for="Year" class="form-control" />
+                <span asp-validation-for="Year"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TuitionFee"></label>
+                <input asp-for="TuitionFee" class="form-control" />
+                <span asp-validation-for="TuitionFee"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ExtraFeeCategory"></label>
+                <select asp-for="ExtraFeeCategory">
+                    <option value="">--Select Fee Category--</option>
+                    <option value="SessionFee">Session Fee</option>
+                    <option value="FormFillUp">Form Fill Up Fee</option>
+                    <option value="ExaminationFee">Examination Fee</option>
+                    <option value="StudyTour">Study Tour</option>
+                </select>
+                <span asp-validation-for="ExtraFeeCategory"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ExtraFee"></label>
+                <input asp-for="ExtraFee" class="form-control" />
+                <span asp-validation-for="ExtraFee"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PaymentDate"></label>
+                <input asp-for="PaymentDate" class="form-control" />
+                <span asp-validation-for="PaymentDate"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalAmount"></label>
+                <input asp-for="TotalAmount" class="form-control" />
+                <span asp-validation-for="TotalAmount"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SPayAmount"></label>
+                <input asp-for="SPayAmount" class="form-control" />
+                <span asp-validation-for="SPayAmount"></span>
+            </div>
+
+
+            <input type="submit" class="btn-primary" value="Update" />
+        </form>
+    </div>
+</body>
+</html>

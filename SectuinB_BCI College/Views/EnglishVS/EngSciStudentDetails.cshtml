@@ -1,0 +1,32 @@
+﻿@model GroupB01_BCIC.Models.EngSciStudent
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<h1 style="text-align: center;">English Version Science Students Details</h1>
+
+<div class="container">
+    <table border="1" class="table table-bordered" cellpadding="1" cellspacing="1">
+        <thead>
+            <tr>
+                <td style="text-align:center; font-weight: bold;">Student Id</td>
+                <td style="text-align:center; font-weight: bold;">Student Name</td>
+                <td style="text-align:center; font-weight: bold;">Department</td>
+                <td style="text-align:center; font-weight: bold;">Present Address</td>
+                <td style="text-align:center; font-weight: bold;">Permanent Address</td>
+                <td style="text-align:center; font-weight: bold;">Contact</td>
+                <td style="text-align:center; font-weight: bold;">Email</td>
+            </tr>
+        </thead>
+
+        <tr>
+            <td style="text-align:center">@Model.StudentId</td>
+            <td style="text-align:center">@Model.StudentName</td>
+            <td style="text-align:center">@Model.Department</td>
+            <td style="text-align:center">@Model.PresentAddress</td>
+            <td style="text-align:center">@Model.PermanentAddress</td>
+            <td style="text-align:center">@Model.Contact</td>
+            <td style="text-align:center">@Model.Email</td>
+        </tr>
+    </table>
+</div>

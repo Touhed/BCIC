@@ -1,0 +1,27 @@
+﻿@model GroupB01_BCIC.Models.Admin;
+@{
+    ViewData["Title"] = "Admin";
+}
+
+<h1 style="text-align:center">Admin Information</h1>
+
+<div class="container">
+    <table border="1" class="table table-bordered" cellpadding="1" cellspacing="1">
+        <thead>
+            <tr>
+                <td style="text-align:center; font-weight: bold;">AdminId</td>
+                <td style="text-align:center; font-weight: bold;">Name</td>
+                <td style="text-align:center; font-weight: bold;">Email</td>
+                <td style="text-align:center; font-weight: bold;">Contact</td>
+            </tr>
+        </thead>
+
+        <tr>
+            <td style="text-align:center">@Model.AdminId</td>
+            <td style="text-align:center">@Model.Name</td>
+            <td style="text-align:center">@Model.Email</td>
+            <td style="text-align:center">@Model.Contact</td>
+        </tr>
+
+    </table>
+</div>

@@ -1,0 +1,64 @@
+﻿@model GroupB01_BCIC.Models.TeacherAccount
+@{
+    @*Layout = "_LayoutForAccount";*@
+    ViewData["Title"] = "Create New Teacher Account";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>GroupB01_BCCI</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body style="background-color: darkgray;align-content: center;font-family: 'Times New Roman', Times, serif;">
+    <div class="container" style="width: 40%;">
+        <form asp-controller="Account" asp-action="CreateTeacherAccount" method="post">
+            <div asp-validation-summary="All"></div>
+            <h2 style="text-align: center;">Create New Faculty Account</h2>
+            <hr />
+
+            <div class="form-group">
+                <label asp-for="TeacherId"></label>
+                <input asp-for="TeacherId" class="form-control" />
+                <span asp-validation-for="TeacherId"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TeacherName"></label>
+                <input asp-for="TeacherName" class="form-control" />
+                <span asp-validation-for="TeacherName"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TeacherType"></label>
+                <input asp-for="TeacherType" class="form-control" />
+                <span asp-validation-for="TeacherType"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TeacherGread"></label>
+                <input asp-for="TeacherGread" class="form-control" />
+                <span asp-validation-for="TeacherGread"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BasicSalary"></label>
+                <input asp-for="BasicSalary" class="form-control" />
+                <span asp-validation-for="BasicSalary"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Month"></label>
+                <input asp-for="Month" class="form-control">
+                <span asp-validation-for="Month"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Year"></label>
+                <input asp-for="Year" class="form-control">
+                <span asp-validation-for="Year"></span>
+            </div>
+
+            <input type="submit" class="btn-primary" value="Add" />
+        </form>
+    </div>
+</body>
+</html>

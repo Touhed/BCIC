@@ -1,0 +1,38 @@
+﻿@model GroupB01_BCIC.Models.Actor
+@{
+    ViewData["Title"] = "Edit Actor";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body style="background-color: darkgray;align-content: center;">
+
+    <div class="container" style="width: 40%;">
+        <form asp-controller="Actor" asp-action="EditActor" method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <h2 style="text-align: center;">Edit Actor Information</h2>
+            <hr />
+            <div class="form-group">
+                <label asp-for="UserId" class="control-label"></label>
+                <input asp-for="UserId" class="form-control" readonly/>
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserType" class="control-label"></label>
+                <input asp-for="UserType" class="form-control" />
+                <span asp-validation-for="UserType" class="text-danger"></span>
+            </div>
+
+            <input type="submit" class="btn-primary" value="Update" />
+        </form>
+    </div>
+</body>
+</html>

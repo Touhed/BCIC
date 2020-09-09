@@ -1,0 +1,32 @@
+﻿@model GroupB01_BCIC.Models.PermanentTeacher
+
+@{
+    ViewData["Title"] = "Teacher Details";
+}
+<hr>
+
+<h1 style="text-align:center">Teacher Details</h1>
+<div class="container">
+    <table border="1" class="table table-bordered">
+        <thead>
+            <tr>
+                <td style="text-align:center; font-weight: bold;">Id</td>
+                <td style="text-align:center; font-weight: bold;">Name</td>
+                <td style="text-align:center; font-weight: bold;">Type</td>
+                <td style="text-align:center; font-weight: bold;">Designation</td>
+                <td style="text-align:center; font-weight: bold;">Contact</td>
+                <td style="text-align:center; font-weight: bold;">Address</td>
+                <td style="text-align:center; font-weight: bold;">Email</td>
+            </tr>
+        </thead>
+        <tr>
+            <td style="text-align:center">@Model.Id</td>
+            <td style="text-align:center">@Model.Name</td>
+            <td style="text-align:center">@Model.Type</td>
+            <td style="text-align:center">@Model.Designation</td>
+            <td style="text-align:center">@Model.Contact</td>
+            <td style="text-align:center">@Model.Address</td>
+            <td style="text-align:center">@Model.Email</td>
+        </tr>
+    </table>
+</div>

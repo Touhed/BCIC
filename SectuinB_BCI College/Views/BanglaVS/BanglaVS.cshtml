@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = "_LayoutForStudent";
+    ViewData["Title"] = "Bangla Version Student";
+}
+
+<!DOCTYPE html>
+<html>
+<body style="background-color: darkgray; text-align: center; font-family: 'Times New Roman', Times, serif;">
+    <div class="form-group">
+        <h2 style="text-align: center;">Choose For Create Account</h2>
+        <hr />
+        <form asp-controller="BanglaVS" asp-action="AddBanArtStudent" method="get">
+            <button class="btn btn-primary btn-lg">Add Bangla Version Arts Student</button>
+        </form>
+        <br />
+        <form asp-controller="BanglaVS" asp-action="AddBanComStudent" method="get">
+            <button class="btn btn-primary btn-lg">Add Bangla Version Commerce Student</button>
+        </form>
+        <br />
+        <form asp-controller="BanglaVS" asp-action="AddBanSciStudent" method="get">
+            <button class="btn btn-primary btn-lg">Add Bangla Version Science Student</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,42 @@
+﻿@model List<GroupB01_BCIC.Models.Users>
+@{
+    ViewData["Title"] = "User List";
+}
+
+<h1 style="text-align:center">User Login Information</h1>
+
+<div class="container" style="width: 20%;">
+    <div class="form-group">
+        <div class="input-group-addon">
+            <form asp-controller="Users" asp-action="Search">
+                <input placeholder="Search By Id" class="form-control" name="id" />
+                <a asp-controller="Users" asp-action="Search" asp-route-id="id"><input type="submit" value="Search" /></a>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <table border="1" class="table table-bordered" cellpadding="1" cellspacing="1">
+        <thead>
+            <tr>
+                <td style="text-align:center; font-weight: bold;">Login Id</td>
+                <td style="text-align:center; font-weight: bold;">User Id</td>
+                <td style="text-align:center; font-weight: bold;">User Type</td>
+                <td style="text-align:center; font-weight: bold;">First Name</td>
+                <td style="text-align:center; font-weight: bold;">Last Name</td>
+                <td style="text-align:center; font-weight: bold;">Email</td>
+            </tr>
+        </thead>
+        @foreach (var ac in Model)
+        {
+            <tr>
+                <td style="text-align:center">@ac.LoginId</td>
+                <td style="text-align:center">@ac.UserId</td>
+                <td style="text-align:center">@ac.UserType</td>
+                <td style="text-align:center">@ac.FirstName</td>
+                <td style="text-align:center">@ac.LastName</td>
+                <td style="text-align:center">@ac.Email</td>
+            </tr>
+        }
+    </table>
+</div>

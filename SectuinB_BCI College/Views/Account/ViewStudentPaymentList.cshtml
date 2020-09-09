@@ -1,0 +1,56 @@
+﻿@model List<GroupB01_BCIC.ViewModel.StudentPaymentVM>;
+@{
+    Layout = "_LayoutForAdmin";
+    Layout = "_LayoutForAccount";
+    ViewData["Title"] = "Payment";
+}
+
+<h1 style="text-align: center;">Students Payment List</h1>
+
+<div class="container" style="padding-left: 15px; width: 100%">
+    <table border="1" class="table table-bordered" cellpadding="1" cellspacing="1">
+        <thead>
+            <tr>
+                <td style="text-align:center; font-weight: bold;">Payment Id</td>
+                <td style="text-align:center; font-weight: bold;">Student Id</td>
+                <td style="text-align:center; font-weight: bold;">Month</td>
+                <td style="text-align:center; font-weight: bold;">Year</td>
+                <td style="text-align:center; font-weight: bold;">Tuition Fee</td>
+                <td style="text-align:center; font-weight: bold;">Extra Fee Category</td>
+                <td style="text-align:center; font-weight: bold;">Extra Fee</td>
+                <td style="text-align:center; font-weight: bold;">Payment Date</td>
+                <td style="text-align:center; font-weight: bold;">Total Amount</td>
+                <td style="text-align:center; font-weight: bold;">Student Pay Amount</td>
+                <td style="text-align:center; font-weight: bold;">Payment Status</td>
+                <td style="text-align:center; font-weight: bold;">Action</td>
+            </tr>
+        </thead>
+        @foreach (var t in Model)
+        {
+        <tr>
+            <td style="text-align:center">@t.PaymentId</td>
+            <td style="text-align:center">@t.StudentId</td>
+            <td style="text-align:center">@t.Month</td>
+            <td style="text-align:center">@t.Year</td>
+            <td style="text-align:center">@t.TuitionFee</td>
+            <td style="text-align:center">@t.ExtraFeeCategory</td>
+            <td style="text-align:center">@t.ExtraFee</td>
+            <td style="text-align:center">@t.PaymentDate</td>
+            <td style="text-align:center">@t.TotalAmount</td>
+            <td style="text-align:center">@t.SPayAmount</td>
+            @if (t.PaymentStatus == 0)
+            {
+                <td style="text-align:center">Paid</td>}
+            else
+            {
+                <td style="text-align:center">Due</td>}
+            <td style="text-align:center">
+                <a asp-action="StudentPaymentDetails" asp-route-id="@t.PaymentId" class="btn btn-primary">Details</a>
+                <a asp-action="EditStudentPayment" asp-route-id="@t.PaymentId" class="btn btn-primary">Edit</a>
+                <a asp-action="DeleteStudentPayment" asp-route-id="@t.PaymentId" class="btn btn-primary">Delete</a>
+            </td>
+        </tr>
+
+        }
+    </table>
+</div>

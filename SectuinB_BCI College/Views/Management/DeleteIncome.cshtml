@@ -1,0 +1,68 @@
+﻿@model GroupB01_BCIC.Models.IncomeSource
+
+@{
+    ViewData["Title"] = "DeleteIncome";
+}
+
+<h2>DeleteIncome</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentAdmissionFee)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StudentAdmissionFee)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentSessionFee)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StudentSessionFee)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentTuitionFee)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StudentTuitionFee)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ExaminationFee)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ExaminationFee)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.FormFillUp)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FormFillUp)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StationarySell)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StationarySell)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Donation)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Donation)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TotalIncome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TotalIncome)
+        </dd>
+    </dl>
+    
+    <form asp-action="DeleteIncome">
+        <input type="hidden" asp-for="IncomeId" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="IncomeList">Back to List</a>
+    </form>
+</div>

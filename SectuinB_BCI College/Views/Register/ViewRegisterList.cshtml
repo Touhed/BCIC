@@ -1,0 +1,46 @@
+﻿@model List<GroupB01_BCIC.Models.Register>
+@{
+    Layout = "_LayoutForAdmin";
+    ViewData["Title"] = "Register";
+}
+
+<h1 style="text-align:center">Register Information</h1>
+
+<div class="container" style="width: 20%;">
+    <div class="form-group">
+        <div class="input-group-addon">
+            <form asp-controller="Register" asp-action="Search">
+                <input placeholder="Search By Id" class="form-control" name="id" />
+                <a asp-controller="Register" asp-action="Search" asp-route-id="id"><input type="submit" value="Search" /></a>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <table border="1" class="table table-bordered">
+        <thead>
+            <tr>
+                <td style="text-align:center; font-weight: bold;">Register Id</td>
+                <td style="text-align:center; font-weight: bold;">Register Name</td>
+                <td style="text-align:center; font-weight: bold;">Email</td>
+                <td style="text-align:center; font-weight: bold;">Contact</td>
+                <td style="text-align:center; font-weight: bold;">Address</td>
+            </tr>
+        </thead>
+        @foreach (var r in Model)
+        {
+            <tr>
+                <td style="text-align:center">@r.RegisterId</td>
+                <td style="text-align:center">@r.RegisterName</td>
+                <td style="text-align:center">@r.Email</td>
+                <td style="text-align:center">@r.Contact</td>
+                <td style="text-align:center">@r.Address</td>
+                <td style="text-align:center">
+                    <a asp-action="RegisterDetails" asp-route-id="@r.RegisterId" class="btn btn-primary">Details</a>
+                    <a asp-action="EditRegister" asp-route-id="@r.RegisterId" class="btn btn-primary">Edit</a>
+                    <a asp-action="DeleteRegister" asp-route-id="@r.RegisterId" class="btn btn-primary">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>

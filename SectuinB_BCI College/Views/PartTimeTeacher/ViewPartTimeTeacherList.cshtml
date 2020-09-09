@@ -1,0 +1,52 @@
+﻿@model List<GroupB01_BCIC.Models.PartTimeTeacher>
+
+@{
+    Layout = "_LayoutForAdmin";
+    ViewData["Title"] = "Teacher List";
+}
+
+<h1 style="text-align:center">Teacher List</h1>
+
+<div class="container" style="width: 20%;">
+    <div class="form-group">
+        <div class="input-group-addon">
+            <form asp-controller="PartTimeTeacher" asp-action="Search">
+                <input placeholder="Search By Id" class="form-control" name="id" />
+                <a asp-controller="PartTimeTeacher" asp-action="Search" asp-route-id="id"><input type="submit" value="Search" /></a>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <table border="1" class="table table-bordered" cellpadding="1" cellspacing="1">
+        <thead>
+            <tr>
+                <td style="text-align:center; font-weight: bold;">Id</td>
+                <td style="text-align:center; font-weight: bold;">Name</td>
+                <td style="text-align:center; font-weight: bold;">Type</td>
+                <td style="text-align:center; font-weight: bold;">Designation</td>
+                <td style="text-align:center; font-weight: bold;">Contact</td>
+                <td style="text-align:center; font-weight: bold;">Address</td>
+                <td style="text-align:center; font-weight: bold;">Email</td>
+                <td style="text-align:center; font-weight: bold;">Action</td>
+            </tr>
+        </thead>
+        @foreach (var f in Model)
+        {
+            <tr>
+                <td style="text-align:center">@f.Id</td>
+                <td style="text-align:center">@f.Name</td>
+                <td style="text-align:center">@f.Type</td>
+                <td style="text-align:center">@f.Designation</td>
+                <td style="text-align:center">@f.Contact</td>
+                <td style="text-align:center">@f.Address</td>
+                <td style="text-align:center">@f.Email</td>
+                <td style="text-align:center">
+                    <a asp-action="PartTimeTeacherDetails" asp-route-id="@f.Id" class="btn btn-primary">Details</a>
+                    <a asp-action="EditPartTimeTeacher" asp-route-id="@f.Id" class="btn btn-primary">Edit</a>
+                    <a asp-action="DeletePartTimeTeacher" asp-route-id="@f.Id" class="btn btn-primary">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>

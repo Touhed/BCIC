@@ -1,0 +1,50 @@
+﻿@model GroupB01_BCIC.Models.Users
+@{
+    ViewData["Title"] = "Admin Page";
+    Layout = "_LayoutForAdmin";
+}
+
+<!DOCTYPE html>
+<html>
+<body style="background-color: darkgray; text-align: center; font-family: 'Times New Roman', Times, serif;">
+    <div class="form-group">
+        <h2 style="text-align: center;">Choose For Create Account</h2>
+        <hr />
+        <form asp-controller="Actor" asp-action="AddNewActor" method="get">
+            <button class="btn btn-primary btn-lg">Add Actor</button>
+        </form>
+        <br />
+        <form asp-controller="Admin" asp-action="AddNewAdmin" method="get">
+            <button class="btn btn-primary btn-lg">Add Admin</button>
+        </form>
+        <br />
+        <form asp-controller="Users" asp-action="CreateUserAccount" method="get">
+            <button class="btn btn-primary btn-lg">Add User Account</button>
+        </form>
+        <br />
+        <form asp-controller="PermanentTeacher" asp-action="AddPermanentTeacher" method="get">
+            <button class="btn btn-primary btn-lg">Add Permanent Teacher</button>
+        </form>
+        <br />
+        <form asp-controller="PartTimeTeacher" asp-action="AddPartTimeTeacher" method="get">
+            <button class="btn btn-primary btn-lg">Add Part Time Teacher</button>
+        </form>
+        <br />
+        <form asp-controller="Account" asp-action="CreateStudentAccount" method="get">
+            <button class="btn btn-primary btn-lg">Add Students Account</button>
+        </form>
+        <br />
+        <form asp-controller="Account" asp-action="CreateTeacherAccount" method="get">
+            <button class="btn btn-primary btn-lg">Add Teachers Account</button>
+        </form>
+        <br />
+        <form asp-controller="BanglaVS" asp-action="BanglaVS" method="get">
+            <button class="btn btn-primary btn-lg">Add Bangla Version Student</button>
+        </form>
+        <br />
+        <form asp-controller="EnglishVS" asp-action="EnglishVS" method="get">
+            <button class="btn btn-primary btn-lg">Add English Version Student</button>
+        </form>
+    </div>
+</body>
+</html>

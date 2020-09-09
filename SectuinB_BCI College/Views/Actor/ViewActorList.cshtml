@@ -1,0 +1,41 @@
+﻿@model List<GroupB01_BCIC.Models.Actor>
+@{
+    Layout = "_LayoutForAdmin";
+    ViewData["Title"] = "Actor List";
+}
+
+<h1 style="text-align:center">Actor List</h1>
+
+<div class="container" style="width: 20%; text-align: left;">
+    <div class="form-group">
+        <div class="input-group-addon">
+            <form asp-controller="Actor" asp-action="Search">
+                <input placeholder="Search By Id" class="form-control" name="id" />
+                <a asp-controller="Actor" asp-action="Search" asp-route-id="id"><input type="submit" value="Search" /></a>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <table border="1" class="table table-bordered" cellpadding="1" cellspacing="1">
+        <thead>
+            <tr>
+                <td style="text-align:center; font-weight: bold;">User Id</td>
+                <td style="text-align:center; font-weight: bold;">User Type</td>
+                <td style="text-align:center; font-weight: bold;">Action</td>
+            </tr>
+        </thead>
+        @foreach (var a in Model)
+        {
+            <tr>
+                <td style="text-align:center">@a.UserId</td>
+                <td style="text-align:center">@a.UserType</td>
+                <td style="text-align:center">
+                    <a asp-action="ActorDetails" asp-route-id="@a.UserId" class="btn btn-primary">Details</a>
+                    <a asp-action="EditActor" asp-route-id="@a.UserId" class="btn btn-primary">Edit</a>
+                    <a asp-action="DeleteActor" asp-route-id="@a.UserId" class="btn btn-primary">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>

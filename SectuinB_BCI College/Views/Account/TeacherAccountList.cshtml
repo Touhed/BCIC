@@ -1,0 +1,37 @@
+﻿@model List<GroupB01_BCIC.Models.TeacherAccount>;
+@{
+    
+    ViewData["Title"] = "Teacher Account";
+}
+
+<h1 style="text-align: center;">Teachers Account List</h1>
+
+<div class="container">
+    <table border="1" class="table table-bordered" cellpadding="1" cellspacing="1">
+        <thead>
+            <tr>
+                <td style="text-align:center; font-weight: bold;">Acc No</td>
+                <td style="text-align:center; font-weight: bold;">Teacher Id</td>
+                <td style="text-align:center; font-weight: bold;">Teacher Name</td>
+                <td style="text-align:center; font-weight: bold;">Teacher Type</td>
+                <td style="text-align:center; font-weight: bold;">Gread</td>
+                <td style="text-align:center; font-weight: bold;">Basic Salary</td>
+                <td style="text-align:center; font-weight: bold;">Month</td>
+                <td style="text-align:center; font-weight: bold;">Year</td>
+            </tr>
+        </thead>
+        @foreach (var t in Model)
+        {
+            <tr>
+                <td style="text-align:center">@t.AccNo</td>
+                <td style="text-align:center">@t.TeacherId</td>
+                <td style="text-align:center">@t.TeacherName</td>
+                <td style="text-align:center">@t.TeacherType</td>
+                <td style="text-align:center">@t.TeacherGread</td>
+                <td style="text-align:center">@t.BasicSalary</td>
+                <td style="text-align:center">@t.Month</td>
+                <td style="text-align:center">@t.Year</td>
+            </tr>
+        }
+    </table>
+</div>

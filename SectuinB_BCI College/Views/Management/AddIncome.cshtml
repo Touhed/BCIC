@@ -1,0 +1,58 @@
+﻿@model GroupB01_BCIC.Models.IncomeSource
+
+@{
+    ViewData["Title"] = "Add Income";
+}
+
+<h2>AddIncome</h2>
+
+<hr />
+<body style="background-color: darkgray;align-content: center;">
+    <div class="container" style="width: 40%;">
+        <form asp-controller="Management" asp-action="AddIncome" method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="StudentAdmissionFee" class="control-label"></label>
+                <input asp-for="StudentAdmissionFee" class="form-control" />
+                <span asp-validation-for="StudentAdmissionFee" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudentSessionFee" class="control-label"></label>
+                <input asp-for="StudentSessionFee" class="form-control" />
+                <span asp-validation-for="StudentSessionFee" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudentTuitionFee" class="control-label"></label>
+                <input asp-for="StudentTuitionFee" class="form-control" />
+                <span asp-validation-for="StudentTuitionFee" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ExaminationFee" class="control-label"></label>
+                <input asp-for="ExaminationFee" class="form-control" />
+                <span asp-validation-for="ExaminationFee" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FormFillUp" class="control-label"></label>
+                <input asp-for="FormFillUp" class="form-control" />
+                <span asp-validation-for="FormFillUp" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StationarySell" class="control-label"></label>
+                <input asp-for="StationarySell" class="form-control" />
+                <span asp-validation-for="StationarySell" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Donation" class="control-label"></label>
+                <input asp-for="Donation" class="form-control" />
+                <span asp-validation-for="Donation" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Add" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+        <div>
+            <a asp-action="Index">Back to List</a>
+        </div>
+</body>

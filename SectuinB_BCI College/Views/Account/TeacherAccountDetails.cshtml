@@ -1,0 +1,36 @@
+﻿@model GroupB01_BCIC.Models.TeacherAccount
+@{
+    @*Layout = "_LayoutForAccount";*@
+    ViewData["Title"] = "Teacher Account";
+}
+
+<h1 style="text-align: center;">Teacher Account Details</h1>
+
+<div class="container">
+
+    <table border="1" class="table table-bordered" cellpadding="1" cellspacing="1">
+        <thead>
+            <tr>
+                <td style="text-align:center; font-weight: bold;">Acc No</td>
+                <td style="text-align:center; font-weight: bold;">Teacher Id</td>
+                <td style="text-align:center; font-weight: bold;">Teacher Name</td>
+                <td style="text-align:center; font-weight: bold;">Teacher Type</td>
+                <td style="text-align:center; font-weight: bold;">Gread</td>
+                <td style="text-align:center; font-weight: bold;">Basic Salary</td>
+                <td style="text-align:center; font-weight: bold;">Month</td>
+                <td style="text-align:center; font-weight: bold;">Year</td>
+            </tr>
+        </thead>
+
+        <tr>
+            <td style="text-align:center">@Model.AccNo</td>
+            <td style="text-align:center">@Model.TeacherId</td>
+            <td style="text-align:center">@Model.TeacherName</td>
+            <td style="text-align:center">@Model.TeacherType</td>
+            <td style="text-align:center">@Model.TeacherGread</td>
+            <td style="text-align:center">@Model.BasicSalary</td>
+            <td style="text-align:center">@Model.Month</td>
+            <td style="text-align:center">@Model.Year</td>
+        </tr>
+    </table>
+</div>

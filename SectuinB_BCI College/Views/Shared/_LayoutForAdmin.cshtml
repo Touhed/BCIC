@@ -1,0 +1,418 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BCIC</title>
+
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+
+    <style>
+        .affix {
+            top: 0;
+            width: 100%;
+            z-index: 9999 !important;
+        }
+
+        .navbar {
+            margin-bottom: 0px;
+        }
+
+        .affix ~ .container-fluid {
+            position: relative;
+            top: 50px;
+        }
+
+        .dropdown-submenu {
+            position: relative;
+        }
+
+            .dropdown-submenu > .dropdown-menu {
+                top: 0;
+                left: 100%;
+                margin-top: -6px;
+                margin-left: -1px;
+                -webkit-border-radius: 0 6px 6px 6px;
+                -moz-border-radius: 0 6px 6px;
+                border-radius: 0 6px 6px 6px;
+            }
+
+            .dropdown-submenu:hover > .dropdown-menu {
+                display: block;
+            }
+
+            .dropdown-submenu > a:after {
+                display: block;
+                content: " ";
+                float: right;
+                width: 0;
+                height: 0;
+                border-color: transparent;
+                border-style: solid;
+                border-width: 5px 0 5px 5px;
+                border-left-color: #ccc;
+                margin-top: 5px;
+                margin-right: -10px;
+            }
+
+            .dropdown-submenu:hover > a:after {
+                border-left-color: #fff;
+            }
+
+            .dropdown-submenu.pull-left {
+                float: none;
+            }
+
+            .dropdown-submenu.pull-left > .dropdown-menu {
+                left: -100%;
+                margin-left: 10px;
+                -webkit-border-radius: 6px 0 6px 6px;
+                -moz-border-radius: 6px 0 6px 6px;
+                border-radius: 6px 0 6px 6px;
+            }
+    </style>
+
+</head>
+<body>
+    <div class="container-fluid" style="background-color:darkgreen;color:#fff;">
+        <div class="row">
+            <div class="col-sm-1" style="height :100px;">
+                <span>
+                    <img src="~/images/BCI Logo.png" class="img-circle" alt="Cinque Terre" width="100" height="78" style="padding-top:19px;">
+                </span>
+            </div>
+            <div class="col-sm-10">
+                <h2 style="margin-left:75px;width: auto; text-align: center;">BCI COLLEGE<br>BEST CREATIVE IDEAL COLLEGE</h2>
+            </div>
+            <div class="col-sm-3" style="padding:0;">
+
+            </div>
+            <div class="clearfix visible-sm"></div>
+        </div>
+    </div>
+
+    <nav class="navbar navbar-inverse" data-spy="affix" data-offset-top="197" style="border-radius: 0;">
+        <div class="container-fluid" style="background-color:#0F172D">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#primaryNavbar">
+
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <span class="navbar-brand" style="width: 150px;">@ViewData["Title"]</span>
+            </div>
+            <div class="collapse navbar-collapse" id="primaryNavbar">
+                <ul class="nav navbar-nav">
+                    <li><a asp-area="" asp-controller="Users" asp-action="Login" class="navbar-brand"></a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="ViewIndex" style="font-size: 17px;font-weight: bold;color: white;">Home</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="ViewAbout" style="font-size: 17px;font-weight: bold;color: white;">About</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="font-size: 17px;font-weight: bold;color: white;">Login<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a asp-area="" asp-controller="Users" asp-action="CreateUserAccount" style="background-color: #0F172D;color:white;">Create User Account</a></li>
+                            <li><a asp-area="" asp-controller="Users" asp-action="Login" style="background-color: #0F172D;color:white">Login</a></li>
+                            <li><a asp-area="" asp-controller="Users" asp-action="ViewUserList" style="background-color: #0F172D;color:white">User List</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="font-size: 17px;font-weight: bold;color: white;">Actor<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a asp-area="" asp-controller="Actor" asp-action="AddNewActor" style="background-color: #0F172D;color:white;">Add New Actor</a></li>
+                            <li><a asp-area="" asp-controller="Actor" asp-action="ViewActorList" style="background-color: #0F172D;color:white">Actor List</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="font-size: 17px;font-weight: bold;color: white;">Student<span class="caret"></span></a>
+                        <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
+                            <li class="dropdown-submenu">
+                                <a tabindex="-1" href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">English</a>
+                                <ul class="dropdown-menu">
+                                    <li class="dropdown-submenu">
+                                        <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Science</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a asp-controller="EnglishVS" asp-action="AddEngSciStudent" style="background-color: #0F172D;color:white">Add New Student</a></li>
+                                            <li><a asp-controller="EnglishVS" asp-action="ViewEngSciStudentList" style="background-color: #0F172D;color:white">Student List</a></li>
+                                            <li class="dropdown-submenu">
+                                                <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">StudentInfo</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a asp-controller="Student" asp-action="AddStudent" style="background-color: #0F172D;color:white">Add Student Information</a></li>
+                                                    <li><a asp-controller="Student" asp-action="ViewStudentList" style="background-color: #0F172D;color:white">Student Information List</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Arts</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a asp-controller="EnglishVS" asp-action="AddEngArtStudent" style="background-color: #0F172D;color:white">Add New Student</a></li>
+                                            <li><a asp-controller="EnglishVS" asp-action="ViewEngArtStudentList" style="background-color: #0F172D;color:white">Student List</a></li>
+                                            <li class="dropdown-submenu">
+                                                <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">StudentInfo</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a asp-controller="Student" asp-action="AddStudent" style="background-color: #0F172D;color:white">Add Student Information</a></li>
+                                                    <li><a asp-controller="Student" asp-action="ViewStudentList" style="background-color: #0F172D;color:white">Student Information List</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Commerce</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a asp-controller="EnglishVS" asp-action="AddEngComStudent" style="background-color: #0F172D;color:white">Add New Student</a></li>
+                                            <li><a asp-controller="EnglishVS" asp-action="ViewEngComStudentList" style="background-color: #0F172D;color:white">Student List</a></li>
+                                            <li class="dropdown-submenu">
+                                                <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">StudentInfo</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a asp-controller="Student" asp-action="AddStudent" style="background-color: #0F172D;color:white">Add Student Information</a></li>
+                                                    <li><a asp-controller="Student" asp-action="ViewStudentList" style="background-color: #0F172D;color:white">Student Information List</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a tabindex="-1" href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Bangla</a>
+                                <ul class="dropdown-menu">
+                                    <li class="dropdown-submenu">
+                                        <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Science</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a asp-controller="BanglaVS" asp-action="AddBanSciStudent" style="background-color: #0F172D;color:white">Add New Student</a></li>
+                                            <li><a asp-controller="BanglaVS" asp-action="ViewBanSciStudentList" style="background-color: #0F172D;color:white">Student List</a></li>
+                                            <li class="dropdown-submenu">
+                                                <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">StudentInfo</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a asp-controller="Student" asp-action="AddStudent" style="background-color: #0F172D;color:white">Add Student Information</a></li>
+                                                    <li><a asp-controller="Student" asp-action="ViewStudentList" style="background-color: #0F172D;color:white">Student Information List</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Arts</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a asp-controller="BanglaVS" asp-action="AddBanArtStudent" style="background-color: #0F172D;color:white">Add New Student</a></li>
+                                            <li><a asp-controller="BanglaVS" asp-action="ViewBanArtStudentList" style="background-color: #0F172D;color:white">Student List</a></li>
+                                            <li class="dropdown-submenu">
+                                                <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">StudentInfo</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a asp-controller="Student" asp-action="AddStudent" style="background-color: #0F172D;color:white">Add Student Information</a></li>
+                                                    <li><a asp-controller="Student" asp-action="ViewStudentList" style="background-color: #0F172D;color:white">Student Information List</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Commerce</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a asp-controller="BanglaVS" asp-action="AddBanComStudent" style="background-color: #0F172D;color:white">Add New Student</a></li>
+                                            <li><a asp-controller="BanglaVS" asp-action="ViewBanComStudentList" style="background-color: #0F172D;color:white">Student List</a></li>
+                                            <li class="dropdown-submenu">
+                                                <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">StudentInfo</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a asp-controller="Student" asp-action="AddStudent" style="background-color: #0F172D;color:white">Add Student Information</a></li>
+                                                    <li><a asp-controller="Student" asp-action="ViewStudentList" style="background-color: #0F172D;color:white">Student Information List</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="font-size: 17px;font-weight: bold;color: white;">Account<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li class="dropdown-submenu">
+                                <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Teacher</a>
+                                <ul class="dropdown-menu">
+                                    <li><a asp-area="" asp-controller="Account" asp-action="CreateTeacherAccount" style="background-color: #0F172D;color:white">Create Teacher Account</a></li>
+                                    <li><a asp-area="" asp-controller="Account" asp-action="ViewTeacherAccountList" style="background-color: #0F172D;color:white">Teacher Account List</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Student</a>
+                                <ul class="dropdown-menu">
+                                    <li><a asp-area="" asp-controller="Account" asp-action="CreateStudentAccount" style="background-color: #0F172D;color:white">Create Student Account</a></li>
+                                    <li><a asp-area="" asp-controller="Account" asp-action="ViewStudentAccountList" style="background-color: #0F172D;color:white">Student Account List</a></li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Admission Fee</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a asp-area="" asp-controller="Account" asp-action="AdmissionFee" style="background-color: #0F172D;color:white">Admission Fee</a></li>
+                                            <li><a asp-area="" asp-controller="Account" asp-action="ViewAdmissionList" style="background-color: #0F172D;color:white">Admission List</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Student Payment</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a asp-area="" asp-controller="Account" asp-action="StudentPayment" style="background-color: #0F172D;color:white">Student Payment</a></li>
+                                            <li><a asp-area="" asp-controller="Account" asp-action="ViewStudentPaymentList" style="background-color: #0F172D;color:white">Student Payment List</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="font-size: 17px;font-weight: bold;color: white;">Teacher<span class="caret"></span></a>
+                        <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
+                            <li class="dropdown-submenu">
+                                <a tabindex="-1" href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Permanent</a>
+                                <ul class="dropdown-menu">
+                                    <li><a asp-area="" asp-controller="PermanentTeacher" asp-action="AddPermanentTeacher" style="background-color: #0F172D;color:white">Add New Teacher </a></li>
+                                    <li><a asp-area="" asp-controller="PermanentTeacher" asp-action="ViewPermanentTeacherList" style="background-color: #0F172D;color:white">Teacher List</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a tabindex="-1" href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Part Time</a>
+                                <ul class="dropdown-menu">
+                                    <li><a asp-area="" asp-controller="PartTimeTeacher" asp-action="AddPartTimeTeacher" style="background-color: #0F172D;color:white">Add New Teacher </a></li>
+                                    <li><a asp-area="" asp-controller="PartTimeTeacher" asp-action="ViewPartTimeTeacherList" style="background-color: #0F172D;color:white">Teacher List</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="font-size: 17px;font-weight: bold;color: white;">Admin<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a asp-area="" asp-controller="Admin" asp-action="AddNewAdmin" style="background-color: #0F172D;color:white;">Add New Admin</a></li>
+                            <li><a asp-area="" asp-controller="Admin" asp-action="ViewAdminList" style="background-color: #0F172D;color:white">Admin List</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="font-size: 17px;font-weight: bold;color: white;">Register<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a asp-area="" asp-controller="Register" asp-action="AddNewRegister" style="background-color: #0F172D;color:white;">Add New Register</a></li>
+                            <li><a asp-area="" asp-controller="Register" asp-action="ViewRegisterList" style="background-color: #0F172D;color:white">Register List</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="font-size: 17px;font-weight: bold;color: white;">Management<span class="caret"></span></a>
+                        <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
+                            <li class="dropdown-submenu">
+                                <a tabindex="-1" href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Income Source</a>
+                                <ul class="dropdown-menu">
+                                    <li><a asp-area="" asp-controller="Management" asp-action="AddIncome" style="background-color: #0F172D;color:white">Add Income</a></li>
+                                    <li><a asp-area="" asp-controller="Management" asp-action="ViewIncomeList" style="background-color: #0F172D;color:white">Income List</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a tabindex="-1" href="#" style="font-size: 17px;font-weight: bold;background-color: #0F172D;color: white;">Institute Cost</a>
+                                <ul class="dropdown-menu">
+                                    <li><a asp-area="" asp-controller="Management" asp-action="AddCost" style="background-color: #0F172D;color:white">Add Cost</a></li>
+                                    <li><a asp-area="" asp-controller="Management" asp-action="ViewCostList" style="background-color: #0F172D;color:white">Cost List</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="ViewContact" style="font-size: 17px;font-weight: bold;color: white;">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    @RenderBody()
+    <hr />
+    <footer>
+        <div class="container-fluid text-center" style="background-color: darkgreen;color:white;">
+            <br>
+            <div class="row">
+                <div class="col-sm-4">
+                    <span style="color: lawngreen; font-size: x-large">Important Links</span>
+
+                    <h4>
+                        <a target="_blank" href="https://moedu.gov.bd/" style="color: white">-Ministry of Education</a><br>
+                        <a target="_blank" href="http://www.dhakaboard.gov.bd/" style="color: white">-Dhaka Education Board</a><br>
+                        <a target="_blank" href="http://www.nctb.gov.bd/" style="color: white">-NCTB</a><br>
+                        <a target="_blank" href="http://www.dshe.gov.bd/" style="color: white">-Directorate Of Secondary and Higher Education</a><br>
+                        <a target="_blank" href="http://www.bteb.gov.bd/" style="color: white">-Technical Education Board</a><br>
+                    </h4>
+
+                </div>
+                <div class="col-sm-4">
+                    <span style="color: lawngreen; font-size: x-large">Address</span>
+                    <address>
+
+                        BCI College,<br />
+
+                        House# 15, Road# 3/E, Sector# 09,<br />
+                        Uttara, Dhaka-1230, Bangladesh<br /><br />
+
+                        Phone : 02-55080345,<br />
+                        Mobile : 01970-602020,<br />
+                        Email : info@bcicollegebd.com<br />
+                        Website: www.bcicollegebd.com<br />
+
+                    </address>
+
+                </div>
+                <div class="col-sm-4">
+                    <span style="color: lawngreen; font-size: x-large">Social Links</span>
+
+                    <h4>
+                        <a href="https://www.facebook.com/pages/category/Community-College/BCI-College-Uttara-2191704557723921/" style="color: white">FaceBook</a><br />
+                        <a href="https://www.instagram.com/" style="color: white">Instagram</a><br />
+                        <a href="https://twitter.com/?lang=en" style="color: white">Twitter</a><br />
+                    </h4>
+
+                </div>
+
+            </div>
+        </div>
+
+        <style>
+            .topbar, .copyrights-area {
+                background: #353535;
+            }
+
+            .copyrights-area {
+                background: none repeat scroll 0 0 #373c43;
+                height: 50px;
+                line-height: 50px;
+                overflow: hidden;
+            }
+        </style>
+        <div class="copyrights-area">
+            <div class="inner">
+                <p class="copyrights-text" style="color: white; margin-left: 25px;">&copy;2018 - GroupB01_BCIC</p>
+            </div>
+        </div>
+    </footer>
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous"
+                integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT">
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                crossorigin="anonymous"
+                integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+        </script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+    </environment>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
+

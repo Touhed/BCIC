@@ -1,0 +1,56 @@
+﻿@model List<GroupB01_BCIC.Models.Student>
+@{
+    ViewData["Title"] = "Student Information List";
+}
+
+<h1 style="text-align:center">Student Information List</h1>
+
+<div class="container" style="width: 20%;">
+    <div class="form-group">
+        <div class="input-group-addon">
+            <form asp-controller="Student" asp-action="Search">
+                <input placeholder="Search By Id" class="form-control" name="id" />
+                <a asp-controller="Student" asp-action="Search" asp-route-id="id"><input type="submit" value="Search" /></a>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <td style="text-align:center; font-weight: bold;">Student Id</td>
+                <td style="text-align:center; font-weight: bold;">Student Name</td>
+                <td style="text-align:center; font-weight: bold;">Version</td>
+                <td style="text-align:center; font-weight: bold;">Department</td>
+                <td style="text-align:center; font-weight: bold;">Class</td>
+                <td style="text-align:center; font-weight: bold;">Section</td>
+                <td style="text-align:center; font-weight: bold;">Session</td>
+                <td style="text-align:center; font-weight: bold;">Gender</td>
+                <td style="text-align:center; font-weight: bold;">Present Address</td>
+                <td style="text-align:center; font-weight: bold;">Contact</td>
+                <td style="text-align:center; font-weight: bold;">Action</td>
+            </tr>
+        </thead>
+        @foreach (var ac in Model)
+        {
+            <tr>
+                <td style="text-align:center">@ac.StudentId</td>
+                <td style="text-align:center">@ac.StudentName</td>
+                <td style="text-align:center">@ac.Version</td>
+                <td style="text-align:center">@ac.Department</td>
+                <td style="text-align:center">@ac.Class</td>
+                <td style="text-align:center">@ac.Section</td>
+                <td style="text-align:center">@ac.Session</td>
+                <td style="text-align:center">@ac.Gender</td>
+                <td style="text-align:center">@ac.PresentAddress</td>
+                <td style="text-align:center">@ac.Contact</td>
+                <td style="text-align:center">
+                    <a asp-action="StudentDetails" asp-route-id="@ac.StudentId" class="btn btn-primary">Details</a>
+                    <a asp-action="EditStudent" asp-route-id="@ac.StudentId" class="btn btn-primary">Edit</a>
+                    <a asp-action="DeleteStudent" asp-route-id="@ac.StudentId" class="btn btn-primary">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>

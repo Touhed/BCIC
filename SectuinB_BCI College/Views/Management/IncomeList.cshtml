@@ -1,0 +1,39 @@
+﻿@model List<GroupB01_BCIC.Models.IncomeSource>
+
+@{
+    ViewData["Title"] = "IncomeL ist";
+}
+
+<h2>Income List</h2>
+
+<table class="table table-bordered" cellpadding="1" cellspacing="1">
+    <thead>
+        <tr>
+            <th>Income Id</th>
+            <th>Student Admission Fee</th>
+            <th>Student Session Fee</th>
+            <th>Student Tuition Fee</th>
+            <th>Examination Fee</th>
+            <th>Form Fill Up</th>
+            <th>Stationary Sell</th>
+            <th>Donation</th>
+            <th>TotalIncome</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.IncomeId</td>
+            <td>@item.StudentAdmissionFee</td>
+            <td>@item.StudentSessionFee</td>
+            <td>@item.StudentTuitionFee</td>
+            <td>@item.ExaminationFee</td>
+            <td>@item.FormFillUp</td>
+            <td>@item.StationarySell</td>
+            <td>@item.Donation</td>
+            <td>@item.TotalIncome</td>
+        </tr>
+        }
+    </tbody>
+</table>

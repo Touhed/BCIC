@@ -1,0 +1,1374 @@
+D:\SectuinB_BCI College\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.deps.json
+D:\SectuinB_BCI College\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.json
+D:\SectuinB_BCI College\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.dev.json
+D:\SectuinB_BCI College\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+D:\SectuinB_BCI College\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+D:\SectuinB_BCI College\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.dll
+D:\SectuinB_BCI College\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csprojAssemblyReference.cache
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CoreCompileInputs.cache
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cache
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfoInputs.cache
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfo.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.input.cache
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.output.cache
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorCoreGenerate.cache
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Faculty.g.cshtml.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Student.g.cshtml.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cache
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cs
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+D:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CopyComplete
+K:\SectuinB_BCI College\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.deps.json
+K:\SectuinB_BCI College\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.json
+K:\SectuinB_BCI College\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.dev.json
+K:\SectuinB_BCI College\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+K:\SectuinB_BCI College\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+K:\SectuinB_BCI College\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.dll
+K:\SectuinB_BCI College\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csprojAssemblyReference.cache
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CoreCompileInputs.cache
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cache
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfoInputs.cache
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfo.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.input.cache
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.output.cache
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorCoreGenerate.cache
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Account.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admin.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Faculty.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Student.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cache
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cs
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+K:\SectuinB_BCI College\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CopyComplete
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csprojAssemblyReference.cache
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CoreCompileInputs.cache
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cache
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfoInputs.cache
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfo.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.input.cache
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.output.cache
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorCoreGenerate.cache
+F:\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.deps.json
+F:\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.json
+F:\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.dev.json
+F:\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+F:\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+F:\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.dll
+F:\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Faculty_Account.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Student_Account.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admin.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\FacultyDetails.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\FacultyList.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\StudentDetails.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\StudentList.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cache
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CopyComplete
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\CreateAccount.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Actor.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\LoginDetails.g.cshtml.cs
+F:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddActor.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.deps.json
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.json
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.dev.json
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.dll
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csprojAssemblyReference.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CoreCompileInputs.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfoInputs.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfo.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.input.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.output.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorCoreGenerate.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateStudentAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CopyComplete
+E:\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.deps.json
+E:\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.json
+E:\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.dev.json
+E:\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+E:\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+E:\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.dll
+E:\GroupB01_BCIC\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csprojAssemblyReference.cache
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CoreCompileInputs.cache
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cache
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfoInputs.cache
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfo.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.input.cache
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.output.cache
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorCoreGenerate.cache
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateFacultyAccount.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateStudentAccount.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Delete_Faculty_Account.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Delete_Student_Account.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Edit_Faculty_Account.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Edit_Student_Account.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Faculty_Account.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Faculty_Account_Details.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Student_Account.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Student_Account_Details.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Insert\AddActor.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Insert\AddFaculty.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Insert\AddNewAdmin.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Insert\AddNewRegister.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Insert\AddStudent.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Insert\CreateAccount.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\Actor.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\ActorDetails.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\Admin.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\AdminDetails.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\DeleteActor.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\DeleteAdmin.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\DeleteFaculty.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\DeleteLogin.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\DeleteRegister.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\DeleteStudent.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\EditActor.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\EditAdmin.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\EditFaculty.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\EditLogin.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\EditRegister.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\EditStudent.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\FacultyDetails.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\FacultyList.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\FacultyOne.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\LoginDetails.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\LoginOne.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\Register.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\RegisterDetails.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\StudentDetails.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\StudentList.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\StudentOne.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cache
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CopyComplete
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Logins\AdminLogin.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Logins\StudentLogin.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Logins\TeacherLogin.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Logins\Login.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\AdminLogin.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\StudentLogin.g.cshtml.cs
+E:\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\TeacherLogin.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.deps.json
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.json
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.dev.json
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.dll
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csprojAssemblyReference.cache
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CoreCompileInputs.cache
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cache
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfoInputs.cache
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfo.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.input.cache
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.output.cache
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorCoreGenerate.cache
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateFacultyAccount.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateStudentAccount.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteFacultyAccount.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteStudentAccount.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditFacultyAccount.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditStudentAccount.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\FacultyAccount.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\FacultyAccountDetails.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccount.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountDetails.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\AdminLogin.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\FacultyLogin.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\RegisterLogin.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\StudentLogin.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Insert\AddFaculty.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Insert\AddNewAdmin.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Insert\AddNewRegister.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Insert\CreateAccount.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\Admin.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\AdminDetails.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\DeleteAdmin.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\DeleteFaculty.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\DeleteLogin.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\DeleteRegister.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\EditAdmin.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\EditFaculty.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\EditLogin.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\EditRegister.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\FacultyDetails.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\FacultyList.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\FacultyOne.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\LoginDetails.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\LoginOne.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\Register.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\View\RegisterDetails.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cache
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CopyComplete
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\AddStudent.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\DeleteStudent.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\EditStudent.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDetails.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentList.g.cshtml.cs
+D:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentOne.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.deps.json
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.json
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.dev.json
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.dll
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csprojAssemblyReference.cache
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CoreCompileInputs.cache
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cache
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfoInputs.cache
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfo.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.input.cache
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.output.cache
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorCoreGenerate.cache
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateStudentAccount.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteStudentAccount.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditStudentAccount.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccount.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cache
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CopyComplete
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.deps.json
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.json
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.dev.json
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.dll
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csprojAssemblyReference.cache
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CoreCompileInputs.cache
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cache
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfoInputs.cache
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfo.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.input.cache
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.output.cache
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorCoreGenerate.cache
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateFacultyAccount.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateStudentAccount.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteFacultyAccount.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteStudentAccount.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditFacultyAccount.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditStudentAccount.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\FacultyAccountDetails.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountDetails.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ActorDetails.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ActorList.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\AddNewActor.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\DeleteActor.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\EditActor.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\Index.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewAdmin.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\EditAdmin.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\AddFaculty.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\DeleteFaculty.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\EditFaculty.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\FacultyDetails.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\FacultyList.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\FacultyOne.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Index.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\CreateUserAccount.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\DeleteUserData.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\EditUserDetails.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\UserDetails.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\UserList.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\AddNewRegister.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\DeleteRegister.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\EditRegister.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\Index.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\RegisterDetails.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\RegisterList.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForAccount.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForAdmin.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForFaculty.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForRegister.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForStudent.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForStudentInfo.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfo\AddStudentInfo.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfo\DeleteStudentInfo.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfo\EditStudentInfo.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfo\Index.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfo\StudentInfoDetails.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfo\StudentInfoList.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\AddStudent.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\DeleteStudent.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\EditStudent.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDetails.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentList.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentOne.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cache
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CopyComplete
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\FacultyAccountList.g.cshtml.cs
+F:\Visual Projects\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountList.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateTeacherAccount.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteTeacherAccount.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditTeacherAccount.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountList.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\TeacherAccount.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\TeacherAccountDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\TeacherAccountList.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ActorDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ActorList.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\AddNewActor.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\DeleteActor.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\EditActor.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\Index.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewAdmin.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\EditAdmin.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanArtStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanComStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanSciStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentList.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentList.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentList.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanArtStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanComStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanSciStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanArtStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanComStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanSciStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\Index.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\StudentOne.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngArtStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngComStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngSciStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngArtStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngComStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngSciStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngArtStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngComStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngSciStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentList.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentList.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentList.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\Index.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\StudentOne.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\AddNewRegister.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\DeleteRegister.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\EditRegister.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\Index.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\RegisterDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\RegisterList.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForAccount.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForAdmin.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForRegister.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForStudent.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForStudentInfo.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForTeacher.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfo\AddStudentInfo.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfo\DeleteStudentInfo.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfo\EditStudentInfo.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfo\Index.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfo\StudentInfoDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\StudentInfo\StudentInfoList.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\AddTeacher.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\DeleteTeacher.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\EditTeacher.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Index.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\TeacherDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\TeacherList.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\TeacherOne.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\AdminLogin.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\CreateUserAccount.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUserData.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\EditUserDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.g.cshtml.cs
+F:\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.deps.json
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.json
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.dev.json
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.dll
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CoreCompileInputs.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfoInputs.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfo.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.input.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.output.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorCoreGenerate.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionFee.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateStudentAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateTeacherAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteAdmission.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteStudentAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteStudentPayment.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteTeacherAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditAdmissionFee.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditStudentAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditStudentPayment.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditTeacherAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPayment.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPaymentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPaymentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\TeacherAccountDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\TeacherAccountList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\VIewAdmissionList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewStudentAccountList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewStudentPaymentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewTeacherAccountList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ActorDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ActorList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\AddNewActor.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\DeleteActor.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\EditActor.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\Search.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ViewActorList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewAdmin.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\EditAdmin.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Search.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ViewAdminList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanArtStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanComStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanSciStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentSearch.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentSearch.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanglaVS.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentSearch.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanArtStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanComStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanSciStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanArtStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanComStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanSciStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\StudentOne.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanArtStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanComStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanSciStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngArtStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngComStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngSciStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngArtStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngComStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngSciStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngArtStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngComStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngSciStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentSearch.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentSearch.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EnglishVS.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentSearch.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\StudentOne.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngArtStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngComStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngSciStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewAbout.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewContact.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewIndex.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\AddPartTimeTeacher.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\DeletePartTimeTeacher.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\EditPartTimeTeacher.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\PartTimeTeacherDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\PartTimeTeacherList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\Search.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\ViewPartTimeTeacherList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\AddPermanentTeacher.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\DeletePermanentTeacher.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\EditPermanentTeacher.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\PermanentTeacherDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\PermanentTeacherList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\Search.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\TeacherOne.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\ViewPermanentTeacherList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\AddNewRegister.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\DeleteRegister.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\EditRegister.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\RegisterDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\RegisterList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\Search.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\ViewRegisterList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForAdmin.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForLogin.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForRegister.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForStudentInfo.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForTeacher.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\AddStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\DeleteStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\EditStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\Search.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\ViewStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\AdminLogin.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\CreateUserAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUserData.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\EditUserDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\Search.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\ViewUserList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CopyComplete
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC.. Edit\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csprojAssemblyReference.cache
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionFee.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateTeacherAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteAdmission.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteStudentAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteStudentPayment.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteTeacherAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditAdmissionFee.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditStudentAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditStudentPayment.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditTeacherAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPayment.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPaymentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPaymentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\TeacherAccountDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\TeacherAccountList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\VIewAdmissionList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewStudentAccountList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewStudentPaymentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewTeacherAccountList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ActorDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ActorList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\AddNewActor.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\DeleteActor.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\EditActor.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\Search.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ViewActorList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewAdmin.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\EditAdmin.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Search.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ViewAdminList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanArtStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanComStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanSciStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentSearch.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentSearch.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanglaVS.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentSearch.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanArtStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanComStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanSciStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanArtStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanComStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanSciStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\StudentOne.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanArtStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanComStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanSciStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngArtStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngComStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngSciStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngArtStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngComStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngSciStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngArtStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngComStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngSciStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentSearch.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentSearch.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EnglishVS.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentSearch.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\StudentOne.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngArtStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngComStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngSciStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewAbout.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewContact.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewIndex.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\AddPartTimeTeacher.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\DeletePartTimeTeacher.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\EditPartTimeTeacher.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\PartTimeTeacherDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\PartTimeTeacherList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\Search.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\ViewPartTimeTeacherList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\AddPermanentTeacher.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\DeletePermanentTeacher.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\EditPermanentTeacher.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\PermanentTeacherDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\PermanentTeacherList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\Search.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\TeacherOne.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\ViewPermanentTeacherList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\AddNewRegister.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\DeleteRegister.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\EditRegister.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\RegisterDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\RegisterList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\Search.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\ViewRegisterList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForAdmin.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForLogin.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForRegister.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForStudentInfo.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForTeacher.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\AddStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\DeleteStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\EditStudent.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\Search.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\ViewStudentList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\AdminLogin.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\CreateUserAccount.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUserData.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\EditUserDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\Search.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\ViewUserList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\AddIncome.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\EditIncome.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\DeleteIncome.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\IncomeList.g.cshtml.cs
+C:\Users\Md. Touhedur Rahman\Desktop\GroupB01_BCIC\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\ViewIncomeList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.deps.json
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.json
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.dev.json
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.dll
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csprojAssemblyReference.cache
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CoreCompileInputs.cache
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cache
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfoInputs.cache
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfo.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.input.cache
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.output.cache
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorCoreGenerate.cache
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionFee.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateStudentAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateTeacherAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteAdmission.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteStudentAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteStudentPayment.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteTeacherAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditAdmissionFee.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditStudentAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditStudentPayment.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditTeacherAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPayment.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPaymentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPaymentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\TeacherAccountDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\TeacherAccountList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\VIewAdmissionList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewStudentAccountList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewStudentPaymentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewTeacherAccountList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ActorDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ActorList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\AddNewActor.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\DeleteActor.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\EditActor.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\Search.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ViewActorList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewAdmin.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\EditAdmin.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Search.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ViewAdminList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanArtStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanComStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanSciStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentSearch.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentSearch.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanglaVS.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentSearch.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanArtStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanComStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanSciStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanArtStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanComStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanSciStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\StudentOne.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanArtStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanComStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanSciStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngArtStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngComStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngSciStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngArtStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngComStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngSciStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngArtStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngComStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngSciStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentSearch.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentSearch.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EnglishVS.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentSearch.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\StudentOne.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngArtStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngComStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngSciStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewAbout.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewContact.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewIndex.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\AddIncome.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\DeleteIncome.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\EditIncome.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\IncomeList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\SearchIncome.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\ViewIncomeList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\AddPartTimeTeacher.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\DeletePartTimeTeacher.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\EditPartTimeTeacher.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\PartTimeTeacherDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\PartTimeTeacherList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\Search.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\ViewPartTimeTeacherList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\AddPermanentTeacher.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\DeletePermanentTeacher.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\EditPermanentTeacher.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\PermanentTeacherDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\PermanentTeacherList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\Search.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\TeacherOne.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\ViewPermanentTeacherList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\AddNewRegister.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\DeleteRegister.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\EditRegister.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\RegisterDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\RegisterList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\Search.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\ViewRegisterList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForAdmin.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForLogin.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForRegister.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForStudentInfo.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForTeacher.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\AddStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\DeleteStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\EditStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\Search.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\ViewStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\AdminLogin.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\CreateUserAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUserData.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\EditUserDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\Search.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\ViewUserList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cache
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cs
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+G:\MY BOOKS\IUBAT\Visual Studio 2017\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CopyComplete
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.deps.json
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.json
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.dev.json
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.dll
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csprojAssemblyReference.cache
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CoreCompileInputs.cache
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cache
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfoInputs.cache
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfo.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.input.cache
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.output.cache
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorCoreGenerate.cache
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionFee.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateStudentAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateTeacherAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteAdmission.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteStudentAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteStudentPayment.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteTeacherAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditAdmissionFee.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditStudentAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditStudentPayment.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditTeacherAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPayment.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPaymentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPaymentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\TeacherAccountDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\TeacherAccountList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\VIewAdmissionList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewStudentAccountList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewStudentPaymentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewTeacherAccountList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ActorDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ActorList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\AddNewActor.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\DeleteActor.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\EditActor.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\Search.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ViewActorList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewAdmin.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\EditAdmin.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Search.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ViewAdminList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanArtStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanComStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanSciStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentSearch.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentSearch.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanglaVS.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentSearch.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanArtStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanComStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanSciStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanArtStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanComStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanSciStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\StudentOne.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanArtStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanComStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanSciStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngArtStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngComStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngSciStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngArtStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngComStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngSciStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngArtStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngComStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngSciStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentSearch.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentSearch.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EnglishVS.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentSearch.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\StudentOne.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngArtStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngComStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngSciStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewAbout.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewContact.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewIndex.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\AddIncome.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\DeleteIncome.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\EditIncome.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\IncomeList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\SearchIncome.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\ViewIncomeList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\AddPartTimeTeacher.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\DeletePartTimeTeacher.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\EditPartTimeTeacher.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\PartTimeTeacherDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\PartTimeTeacherList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\Search.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\ViewPartTimeTeacherList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\AddPermanentTeacher.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\DeletePermanentTeacher.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\EditPermanentTeacher.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\PermanentTeacherDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\PermanentTeacherList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\Search.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\TeacherOne.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\ViewPermanentTeacherList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\AddNewRegister.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\DeleteRegister.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\EditRegister.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\RegisterDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\RegisterList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\Search.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\ViewRegisterList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForAdmin.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForLogin.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForRegister.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForStudentInfo.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForTeacher.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\AddStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\DeleteStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\EditStudent.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\Search.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\ViewStudentList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\AdminLogin.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\CreateUserAccount.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUserData.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\EditUserDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\Search.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\ViewUserList.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cache
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cs
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+G:\MY BOOKS\IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CopyComplete
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\appsettings.Development.json
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\appsettings.json
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.deps.json
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.json
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.runtimeconfig.dev.json
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.dll
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\bin\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csprojAssemblyReference.cache
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cache
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorAssemblyInfo.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfoInputs.cache
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.AssemblyInfo.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.input.cache
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.TagHelpers.output.cache
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorCoreGenerate.cache
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionFee.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\AdmissionList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateStudentAccount.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\CreateTeacherAccount.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteAdmission.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteStudentAccount.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteStudentPayment.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\DeleteTeacherAccount.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditAdmissionFee.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditStudentAccount.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditStudentPayment.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\EditTeacherAccount.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentAccountList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPayment.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPaymentDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\StudentPaymentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\TeacherAccountDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\TeacherAccountList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\VIewAdmissionList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewStudentAccountList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewStudentPaymentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Account\ViewTeacherAccountList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ActorDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ActorList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\AddNewActor.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\DeleteActor.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\EditActor.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\Index.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\Search.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Actor\ViewActorList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewAdmin.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AdminList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteAdmin.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\EditAdmin.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Search.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ViewAdminList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanArtStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanComStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\AddBanSciStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanArtStudentSearch.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanComStudentSearch.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanglaVS.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\BanSciStudentSearch.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanArtStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanComStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\DeleteBanSciStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanArtStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanComStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\EditBanSciStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\Index.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\StudentOne.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanArtStudentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanComStudentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\BanglaVS\ViewBanSciStudentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngArtStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngComStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\AddEngSciStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngArtStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngComStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\DeleteEngSciStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngArtStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngComStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EditEngSciStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngArtStudentSearch.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngComStudentSearch.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EnglishVS.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\EngSciStudentSearch.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\Index.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\StudentOne.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngArtStudentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngComStudentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\EnglishVS\ViewEngSciStudentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewAbout.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewContact.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewIndex.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\AddIncome.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\DeleteIncome.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\EditIncome.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\IncomeList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\SearchIncome.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Management\ViewIncomeList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\AddPartTimeTeacher.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\DeletePartTimeTeacher.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\EditPartTimeTeacher.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\Index.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\PartTimeTeacherDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\PartTimeTeacherList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\Search.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PartTimeTeacher\ViewPartTimeTeacherList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\AddPermanentTeacher.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\DeletePermanentTeacher.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\EditPermanentTeacher.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\Index.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\PermanentTeacherDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\PermanentTeacherList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\Search.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\TeacherOne.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\PermanentTeacher\ViewPermanentTeacherList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\AddNewRegister.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\DeleteRegister.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\EditRegister.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\Index.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\RegisterDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\RegisterList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\Search.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Register\ViewRegisterList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForAccount.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForAdmin.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForLogin.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForRegister.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForStudentInfo.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutForTeacher.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\AddStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\DeleteStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\EditStudent.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\Search.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Student\ViewStudentList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\AdminLogin.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\CreateUserAccount.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\DeleteUserData.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\EditUserDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\Search.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserDetails.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\UserList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\Users\ViewUserList.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cache
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.RazorTargetAssemblyInfo.cs
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.Views.pdb
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.dll
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.pdb
+H:\MY BOOKS\# IUBAT\Visual Projects\GroupB01_BCIC1\SectuinB_BCI College\obj\Debug\netcoreapp2.1\GroupB01_BCIC.csproj.CopyComplete
